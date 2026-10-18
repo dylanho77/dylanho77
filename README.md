@@ -4,7 +4,11 @@
   
 ##  Passionate & Versatile Full-Stack Software Developer | Building Scalable Applications & Innovative Digital Solutions 🚀
 👋 Hi, I'm a results-driven Software Developer dedicated to turning complex ideas into high-performance, user-centric products. I thrive on exploring cutting-edge technologies, architecting robust systems, and shipping impactful software across web, mobile, and backend ecosystems. Whether it's building automated workflows, designing intuitive interfaces, or optimizing infrastructure, I love building things that make a difference.
+
 ⚡ Full-Stack Web & Mobile Development: Creating seamless digital experiences with modern frameworks.
+
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+
 
 🛠️ System Architecture & APIs: Designing reliable, secure, and scalable backend services.
 
